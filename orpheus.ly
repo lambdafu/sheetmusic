@@ -87,7 +87,7 @@ bassWordsTwo = \lyricmode {
 }
 
 \header {
-  title = "Orpheus and His Lute"
+  title = "Orpheus With His Lute"
   composer = "Matthew Locke"
   poet = "William Shakespeare"
   arranger = "English Ayres"
